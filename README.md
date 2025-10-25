@@ -1,6 +1,6 @@
 ## Hi world! 👋
 
-##Controls Engineer and Graphics Specialist
+#Controls Engineer and Graphics Specialist
 
 I am currently on a journey to develop and utilize control and graphics technologies.<br>
 Although still learning, I wish to contribute something that suits the gaming market, automation, and academic requirements.<br>
