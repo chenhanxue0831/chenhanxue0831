@@ -1,6 +1,6 @@
 ## Hi world! 👋
 ***
-<font size="5">Controls Engineer and Graphics Specialist<font>
+<font size="8">Controls Engineer and Graphics Specialist<font>
 ***
 
 🌱I am currently on a journey to develop and utilize control and graphics technologies.<br><br>
