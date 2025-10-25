@@ -1,10 +1,11 @@
 ## Hi world! 👋
 
-##Controls Engineer and Graphics Specialist##
-I am currently on a journey to develop and utilize control and graphics technologies.
-Although still learning, I wish to contribute something that suits the gaming market, automation, and academic requirements.
-Attended the school of National Chiao Tung University in the past.
-If you are an expert or hobbyist in a similar field, contact me for possibilities of collaboration.
+##Controls Engineer and Graphics Specialist
+
+I am currently on a journey to develop and utilize control and graphics technologies.<br>
+Although still learning, I wish to contribute something that suits the gaming market, automation, and academic requirements.<br>
+Attended the school of National Chiao Tung University in the past.<br>
+If you are an expert or hobbyist in a similar field, contact me for possibilities of collaboration.<br>
 
 <!--
 **chenhanxue0831/chenhanxue0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
