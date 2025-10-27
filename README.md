@@ -8,7 +8,7 @@ Controls Engineer and Graphics Specialist
 
 🌱I am currently on a journey to develop and utilize control and graphics technologies.<br><br>
 🌱Although still learning, I wish to contribute something that suits the gaming market, automation, and academic requirements.<br><br>
-🤔Attended the school of National Chiao Tung University in the past.<br><br>
+🤔Attended the school of National Chiao Tung University but did not complete my degree.<br><br>
 👯If you are an expert or hobbyist in a similar field, contact me for possibilities of collaboration.<br><br>
 ⚡Unreal Engine, Blender, and Krita are my big pals.
 
