@@ -10,7 +10,7 @@ Controls Engineer and Graphics Specialist
 🌱Although still learning, I wish to contribute something that suits the gaming market, automation, and academic requirements.<br><br>
 🤔Attended the school of National Chiao Tung University, studied electronics engineering, but did not complete.<br><br>
 👯If you are an expert or hobbyist in a similar field, contact me for possibilities of collaboration.<br><br>
-⚡Unreal Engine, Blender, and Krita are my big pals.
+⚡Unreal Engine, Blender, Nuxt.js, and Krita are my big pals.
 
 <!--
 **chenhanxue0831/chenhanxue0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
