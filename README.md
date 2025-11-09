@@ -3,7 +3,7 @@
 
 
 ***
-### Controls Engineer and Graphics Specialist
+### Systems Engineer and Graphics Specialist
 ***
 
 🌱I am currently on a journey to develop and utilize control and graphics technologies.<br><br>
