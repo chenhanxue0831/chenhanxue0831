@@ -11,7 +11,7 @@
 🤔Attended the school of National Chiao Tung University, studied electronics engineering, but did not complete.<br><br>
 👯If you are an expert or hobbyist in a similar field, contact me for possibilities of collaboration.<br><br>
 ⚡Unreal Engine, Blender, Nuxt.js, and Krita are my big pals.
-🌱Gamer.
+😄Gamer.
 
 <!--
 **chenhanxue0831/chenhanxue0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
